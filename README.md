@@ -26,25 +26,25 @@ Ensino médio integrado ao curso técnico em redes de com- putadores, com discip
 
 ## Cursos - [Certificados](https://drive.google.com/drive/folders/1HBcYEhgv2W3-SEcjX0vLtCm3j972h2er)
 
-**Fundação Bradesco, EAD** – *2022*
+**Fundação Bradesco, EAD** – *2022* <br>
 Introdução à Gestão de Projetos, 10 Horas.
 
-**Fundação Bradesco, EAD** – *2022*
+**Fundação Bradesco, EAD** – *2022* <br>
 Introdução à Administração, 12 Horas.
 
-**Fundação Bradesco, EAD** – *2021*
+**Fundação Bradesco, EAD** – *2021* <br>
 Microsoft Excel 2013 - Intermediário, 15 Horas.
 
-**Fundação Bradesco, EAD** – *2020*
+**Fundação Bradesco, EAD** – *2020* <br>
 Microsoft Excel 2013 - Básico, 15 Horas.
 
-**Fundação Bradesco, EAD** – *2020*
+**Fundação Bradesco, EAD** – *2020* <br>
 Microsoft Word 2013 - Básico, 15 Horas.
 
-**Fundação Bradesco, EAD** – *2019*
+**Fundação Bradesco, EAD** – *2019* <br>
 Segurança em Tecnologia da Informação, 12 Horas.
 
-**Softblue, EAD** – *2019*
+**Softblue, EAD** – *2019* <br>
 SQL Completo, 20 Horas.
 
 ## Complementos
