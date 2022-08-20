@@ -2,6 +2,7 @@
 
 **Telefone:** (85)98827-1493 <br>
 **E-mail:** marcelo.camara.pra@gmail.com <br>
+**Endereço:** Rua Um, 330 - Icaraí, Caucaia-CE <br>
 **Estado civil:** Solteiro <br>
 **Data de nascimento:** 19/03/2002
 
