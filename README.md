@@ -6,6 +6,9 @@
 **Estado civil:** Solteiro <br>
 **Data de nascimento:** 19/03/2002
 
+## Objetivo
+Em busca de uma oportunidade, me coloco à disposição da empresa para desenvolver e aprimorar meus conhecimen- tos, visando sempre bons resultados em prol da organiza- ção.
+
 ## Formação
 
 **EEEP Presidente Roosevelt, Fortaleza - CE** – *Médio técnico*
